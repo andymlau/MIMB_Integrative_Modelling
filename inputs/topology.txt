@@ -1,0 +1,10 @@
+|directories|
+|pdb_dir|./|
+|fasta_dir|./|
+
+|topology_dictionary|
+|component_name|domain_name|fasta_fn|fasta_id|pdb_fn|chain|residue_range|pdb_offset|bead_size|em_residues_per_gaussian|
+|TS_alpha_A|TS_alpha_A|sequences.fasta|TS_alpha_A|initial_model.pdb|A|1,267|0|1|1|
+|TS_beta_B|TS_beta_B|sequences.fasta|TS_beta_B|initial_model.pdb|B|2,391|0|1|1|
+|TS_alpha_C|TS_alpha_C|sequences.fasta|TS_alpha_C|initial_model.pdb|C|1,267|0|1|1|
+|TS_beta_D|TS_beta_D|sequences.fasta|TS_beta_D|initial_model.pdb|D|2,391|0|1|1|
